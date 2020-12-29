@@ -1,3 +1,4 @@
+# HERE IS THE PROJECT LINK: https://merpssirk.github.io/github-user-search-app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
